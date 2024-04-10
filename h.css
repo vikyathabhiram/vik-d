@@ -1,0 +1,64 @@
+.pad a{
+    text-decoration: none;
+    color: palevioletred;
+}
+.hygt{
+    height: 180px;
+    width: 180px;
+    border: dotted 2px black;
+    border-radius: 60%;
+}
+.pad a {
+    text-decoration: none;
+    color: palevioletred;
+}
+
+.hygt {
+    height: 180px;
+    width: 180px;
+    border: dotted 2px black;
+    border-radius: 60%;
+}
+
+.hygt img.default-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.hygt img.uploaded-image {
+    height: 180px;
+    width: 180px;
+    border-radius: 60%;
+}
+
+.box {
+    background-color:palevioletred ;
+    color: white;
+}
+
+button.box:disabled {
+    background-color: palevioletred !important;
+    color: white !important;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.buyh {
+    background-color: white;
+    border: 1px solid grey;
+}
+
+.nji {
+    opacity: 0.6;
+}
+
+.box{
+    background-color:palevioletred ;
+    color: white;
+    border-radius: 10px;
+}
+.buyh{
+    background-color: white;
+    border: 1px solid grey;
+}
